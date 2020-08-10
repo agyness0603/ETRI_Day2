@@ -1,4 +1,4 @@
-# Day2: Convolutional Neural Network(VGG, ResNet, MobileNet)
+# Day2: Convolutional Neural Network(5 layer CNN, VGG, ResNet, MobileNet)
 - Code of loading the CIFAR 10 dataset is provided 
 - Training and Test code is provided. 
 
