@@ -1,10 +1,29 @@
 # Day2: Convolutional Neural Network(VGG, ResNet, MobileNet)
+- Code of loading the CIFAR 10 dataset is provided 
+- Training and Test code is provided. 
 
-## Some parts of code have blanks. Fill the blanks based on presentation.
-## Answer code will be provided after the class. 
+- There are blanks in Network codes. 
+- Fill the blanks based on presentation.
+- Answer code will be provided after the class. 
+
+# Notation of Conv'a'-'b' (s='c')
+![Notation](https://user-images.githubusercontent.com/55013577/89793328-b6e49b00-db60-11ea-9c7a-f301e5ae5ab1.PNG)
+
+# 5 Layer Convolutional Layer 
+![5 layer conv](https://user-images.githubusercontent.com/55013577/89793364-c1069980-db60-11ea-985e-84cfe6dd8e7e.PNG)
 
 # VGG 11
+![vgg_11](https://user-images.githubusercontent.com/55013577/89793563-f7dcaf80-db60-11ea-90d3-fad890729feb.PNG)
 
 # ResNet 10 
+## Basic Block of ResNet 
+![Blocks of ResNet](https://user-images.githubusercontent.com/55013577/89793570-fa3f0980-db60-11ea-9057-2fcf8a15337e.PNG)
+## ResNet 10 
+![ResNet 10](https://user-images.githubusercontent.com/55013577/89793567-f9a67300-db60-11ea-97ca-c3426c11e70b.PNG)
 
 # MobileNet 
+## Depth wise separable convolution operation 
+![mobileNet_operation](https://user-images.githubusercontent.com/55013577/89793576-fc08cd00-db60-11ea-8ce1-247597acc3e6.PNG)
+
+## MobileNet 
+![MobileNet](https://user-images.githubusercontent.com/55013577/89793572-fb703680-db60-11ea-9a3d-b97b09ef6140.PNG)
