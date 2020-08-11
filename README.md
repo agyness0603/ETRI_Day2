@@ -10,7 +10,7 @@
 ![Notation](https://user-images.githubusercontent.com/55013577/89793328-b6e49b00-db60-11ea-9c7a-f301e5ae5ab1.PNG)
 
 # Pytorch implementation 
-<img width="374" alt="캡처" src="https://user-images.githubusercontent.com/55013577/89855507-97d22180-dbd1-11ea-8494-52f473113c89.PNG">
+<img width="416" alt="캡처" src="https://user-images.githubusercontent.com/55013577/89855729-48d8bc00-dbd2-11ea-8c67-7e687b6af1dc.PNG">
 
 # VGG 11
 ![vgg_11](https://user-images.githubusercontent.com/55013577/89793563-f7dcaf80-db60-11ea-90d3-fad890729feb.PNG)
