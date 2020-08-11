@@ -12,10 +12,6 @@
 # Pytorch implementation 
 <img width="374" alt="캡처" src="https://user-images.githubusercontent.com/55013577/89855507-97d22180-dbd1-11ea-8494-52f473113c89.PNG">
 
-
-# 5 Layer Convolutional Layer 
-![5 layer conv](https://user-images.githubusercontent.com/55013577/89793364-c1069980-db60-11ea-985e-84cfe6dd8e7e.PNG)
-
 # VGG 11
 ![vgg_11](https://user-images.githubusercontent.com/55013577/89793563-f7dcaf80-db60-11ea-90d3-fad890729feb.PNG)
 
